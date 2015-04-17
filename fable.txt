@@ -1077,3 +1077,4 @@ use
  seul p
 
  Dit-e
+ chant
