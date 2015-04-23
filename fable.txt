@@ -1107,3 +1107,4 @@ grain p
  moindr
 pal. » 
  
+is, ne 
