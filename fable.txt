@@ -1145,3 +1145,4 @@ vel
 vo
 princ
 ue fai
+hant
