@@ -1406,3 +1406,4 @@ ais,
 aier
 s fort 
 ’en
+e trouv
