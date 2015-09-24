@@ -1542,3 +1542,4 @@ sine,
 iez
 d
  Pa
+ De 
