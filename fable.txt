@@ -1837,3 +1837,4 @@ it-el
 ena
 ine
 nant
+foi d'a
